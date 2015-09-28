@@ -1,11 +1,11 @@
 <?php
 /**
- * Plugin Name: PBD AJAX Load Posts
- * Plugin URI: http://www.problogdesign.com/
+ * Plugin Name: PBD AJAX Load Posts (Modified by Oleg Belousov)
+ * Plugin URI:
  * Description: Load the next page of posts with AJAX.
- * Version: 0.1
- * Author: Pro Blog Design
- * Author URI: http://www.problogdesign.com/
+ * Version: 1.0
+ * Author: Oleg Belousov
+ * Author URI:
  * License: GPLv2
  */
  
